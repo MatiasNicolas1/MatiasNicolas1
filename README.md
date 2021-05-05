@@ -5,14 +5,8 @@ Hola a todos, Soy Matias Linari!
 < html >
 
 < head > 
-    
-    < meta charset="UTF-8" >
-    
-    < meta http-equiv="X-UA-Compatible" content="IE=edge" >
-    
-    < meta name="viewport" content="width=device-width, initial-scale=1.0" >
-    
-    < title >Hola me llamo Matias!< /title >
+
+    < title >Estoy empezando y formandome en la carrera IT, estudiando dia a dia, informandome de las tecnologias de las cuales uso. No cabe duda que va a ser un trayecto largo pero voy a dar todo lo mejor de mi para cumplir mis objetivos.< /title >
     
 < /head >
 
