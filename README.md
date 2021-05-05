@@ -6,7 +6,8 @@ Hola a todos, Soy Matias Linari!
 
 < head > 
 
-    < title >Estoy empezando y formandome en la carrera IT, estudiando dia a dia, informandome de las tecnologias de las cuales uso. No cabe duda que va a ser un trayecto largo pero voy a dar todo lo mejor de mi para cumplir mis objetivos.< /title >
+    < title >Estoy empezando y formandome en la carrera IT, estudiando dia a dia, informandome de las tecnologias de las cuales uso. 
+    No cabe duda que va a ser un trayecto largo pero voy a dar todo lo mejor de mi para cumplir mis objetivos.< /title >
     
 < /head >
 
