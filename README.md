@@ -18,11 +18,11 @@ Hola a todos, Soy Matias Linari!
      
      < div class="Estos son los lenguajes que utilizo" >
        
-       < h1 >HTML5< /h1 >
+       < h1 >HTML5 < /h1 >
        
-       < h2 >CSS3< /h2 >
-    
-    < /div >
+       < h2 >CSS3< /h2 > 
+       
+     < /div >
    
    < /header >
   
